@@ -1,0 +1,10 @@
+SMAP
+burp_jsp.java
+JSP
+*S JSP
+*F
++ 0 burp.jsp
+burp.jsp
+*L
+1,203:44
+*E
